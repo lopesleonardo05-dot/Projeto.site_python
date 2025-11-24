@@ -1,6 +1,6 @@
 # Wikipedia
 Wikipedia de Create
- (Minecraft Mod)
+O Create è um mod de Minecraft muito conhecido por suas máquinas, aqui estão alguns tópicos:
 
 1. Sistema de Rotação e Transmissão de Energia
 
