@@ -1,4 +1,4 @@
-# WIkipedia
+# Wikipedia
 Wikipedia de Create
  (Minecraft Mod)
 
